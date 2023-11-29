@@ -1,9 +1,9 @@
-<h1>Hi, I'm Anita! <br/><a href="https://github.com/Mudiagaanita">Project Manager</a>, <a href="https://www.linkedin.com/in/anita-mudiaga/">Cybersecurity Professional</a> </h1>
+<h1>Hi, I'm Anita! <br/> <a href="https://www.linkedin.com/in/anita-mudiaga/">Project Manager</a> </h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Project Management:</h2>
 
-- <b>Active Directory Homelab </b>
-  - [Praciting DS & Algos in Python](https://github.com/placeholder)
+- <b>Project Plan</b>
+  - [Project charter, Communication plan, Budget, Risk Management and statement of work for Enny Eye Care Outreach] (https://docs.google.com/spreadsheets/d/175lCxf91nqBmrAf1zFkmZjtBKjQhiQwhbLsaY2CZZeM/edit#gid=300282276)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
