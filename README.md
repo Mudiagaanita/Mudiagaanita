@@ -18,8 +18,20 @@
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
+<h2>📺 Project Management</h2>
+
+- <b>Product Requirement Documents (Permission to share granted)</b>
+
+  - [PRD Genleaders(Built a website and admin dashboard for the management of an organisation dedicated to help young graduates upskill, volunteer and get entry-level roles)](https://docs.google.com/document/d/1R9U_THuNQJhxT5N2HeuqKbsGhtqw3tE8Jn4RwvalGm4/edit?usp=sharing)
+
+  - [PRD UTask app](https://docs.google.com/document/d/1yfy49S4-b2OpYNtUu-ysyB47CMpxd8oF/edit?usp=sharing&ouid=103226260124679942077&rtpof=true&sd=true)
+
+
+
 <h2>📺 Basic Programming Knowledge (HTML, CSS, JS, Python)</h2>
-Mudiagaanita.github.io
+(https://github.com/Mudiagaanita/Mudiagaanita.github.io)
+
+
 <h2>📺 Popular YouTube Videos</h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
