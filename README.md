@@ -4,8 +4,8 @@
 
 - <b>Project Plan</b>
   - [Project charter, Communication plan, Budget, Risk Management and statement of work for Enny Eye Care Outreach] (https://docs.google.com/spreadsheets/d/175lCxf91nqBmrAf1zFkmZjtBKjQhiQwhbLsaY2CZZeM/edit#gid=300282276)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+- <b>Basic Telemedicine Platform for Enny Eye Care (React, NodeJS, Azure, and Machine Learning Components)</b>
+  - [Project document](https://docs.google.com/document/d/1MQtlKdVwVgVPNOvffQsF4hOakXcJILdPpjZw45VbV1Y/edit?usp=sharing)) 
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
