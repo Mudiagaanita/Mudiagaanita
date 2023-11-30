@@ -5,7 +5,7 @@
 - <b>Project Plan</b>
   - [Project charter, Communication plan, Budget, Risk Management and statement of work for Enny Eye Care Outreach](https://docs.google.com/spreadsheets/d/175lCxf91nqBmrAf1zFkmZjtBKjQhiQwhbLsaY2CZZeM/edit#gid=300282276)
 - <b>Basic Telemedicine Platform for Enny Eye Care</b>
-  - [Project document](https://docs.google.com/document/d/1MQtlKdVwVgVPNOvffQsF4hOakXcJILdPpjZw45VbV1Y/edit?usp=sharing)) 
+  - [Project document](https://docs.google.com/document/d/1MQtlKdVwVgVPNOvffQsF4hOakXcJILdPpjZw45VbV1Y/edit?usp=sharing)
 
 
 
